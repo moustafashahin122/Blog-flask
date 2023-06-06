@@ -1,0 +1,16 @@
+
+
+create flask app --> Blog
+
+add posts
+------
+post title
+post body
+post image
+--- bonus (created_at, updated_at)
+
+Then implement crud operations
+
+hint: use template inheritance , use Models , bootstrap
+
+bonus: upload image in flask .
